@@ -21,7 +21,7 @@
         }
         
     </style>
-    <title>PHP WEEK 3</title>
+    <title>WEEK 3</title>
 </head>
 <?php
     $angka = mt_rand(1,10);
