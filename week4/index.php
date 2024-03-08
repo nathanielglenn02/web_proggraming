@@ -8,7 +8,7 @@
             width: 200px;
         }
     </style>
-    <title>Week 4</title>
+    <title>WEEK 4</title>
 </head>
 <?php
     $random = mt_rand(1,6);
@@ -58,7 +58,7 @@
     <p id="par2">
         Lorem ipsum dolor sit, amet consectetur adipisicing elit. Officiis earum eius eveniet ipsam dicta deleniti facere incidunt velit consequuntur tempore laudantium, alias nulla, qui voluptatem. Sunt eius veniam aliquid ut quis laboriosam vero dignissimos natus iste tenetur, unde voluptas non, itaque dolor accusantium! Cupiditate magni, cum nobis, tenetur ducimus placeat explicabo error eum laudantium quis dolore earum assumenda praesentium! Sit exercitationem earum maiores similique, illum ipsam omnis consectetur ipsa odio eveniet praesentium qui? Labore, fuga! Quasi repellat, possimus ipsam quam voluptatum ex a architecto illo ipsa vel eos, odio omnis sequi. Illo voluptatum at fuga recusandae repellat consequatur accusamus, mollitia facilis illum exercitationem soluta atque. Illo ea incidunt molestiae non, maiores doloremque in nulla laborum fugiat voluptas placeat numquam ipsum labore. Magnam eligendi, inventore iste sed consequuntur necessitatibus pariatur voluptas consequatur, provident error quibusdam in animi a molestiae esse totam cumque minima eaque, reprehenderit blanditiis? Soluta earum, aliquam facilis ea magnam commodi reprehenderit assumenda at sit cum omnis unde quos sint velit quibusdam quae sunt illum nisi minus quisquam, eos dolor, temporibus autem! Quas labore enim iusto, id, magnam quod numquam cumque modi, molestiae ducimus eius explicabo ut? At asperiores quisquam recusandae dolorem sunt modi consectetur atque voluptatum eveniet possimus.
     </p>
-                
+
     <ul>
         <li><a href="https://www.ubaya.ac.id" target="_blank">UNIVERSITAS SURABAYA</a></li>
         <li><a href="https://www.facebook.com" target="_blank">FACEBOOK</a></li>
