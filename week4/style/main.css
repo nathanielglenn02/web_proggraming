@@ -1,0 +1,18 @@
+.makanan{
+    color: blue;
+    text-decoration: none;
+}
+.makanan:hover{
+    color: red;
+    text-decoration: underline;
+}
+
+.minuman{
+    color: red;
+    font-weight: bold;
+}
+.minuman:hover{
+    color:blue;
+    text-decoration: none;
+    font-weight: normal;
+}

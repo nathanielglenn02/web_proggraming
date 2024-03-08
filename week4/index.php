@@ -7,6 +7,34 @@
         img{
             width: 200px;
         }
+        img.luky-class:hover{
+            width: 500px;
+        }
+
+        a:link{
+            color: green;
+            text-decoration: none;
+        }
+        a:hover{
+            font-weight: bold;
+        }
+        a:active{
+            text-decoration: underline;
+        }
+        a:visited{
+            color: orange;
+        }
+
+        .atas:link, .atas:visited{
+            color:green;
+        }
+        .bawah:link, .atas:visited{
+            color:magenta;
+        }
+        
+        
+        
+
     </style>
     <title>WEEK 4</title>
 </head>
@@ -34,7 +62,7 @@
 <body>
     <p>
         <img src="images/kungfupanda.jpg" alt="Gambar kungfupanda" title="Kungfu Panda">
-        <img src="https://my.ubaya.ac.id/img/mhs/160722006_l.jpg" alt="">
+        <img class="luky-class" src="https://my.ubaya.ac.id/img/mhs/160722006_l.jpg" alt="">
         
         <?php
             // for($i=1; $i <= $random; $i++){
@@ -60,7 +88,7 @@
     </p>
 
     <ul>
-        <li><a href="https://www.ubaya.ac.id" target="_blank">UNIVERSITAS SURABAYA</a></li>
+        <li><a href="https://www.ubaya.ac.id" class="atas"target="_blank">UNIVERSITAS SURABAYA</a></li>
         <li><a href="https://www.facebook.com" target="_blank">FACEBOOK</a></li>
         <li><a href="https://www.kompas.com" target="_blank">KOMPAS</a></li>
     </ul>
